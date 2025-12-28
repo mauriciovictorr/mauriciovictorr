@@ -12,13 +12,9 @@ Maurício Victor | Engenharia de Software @ UMJ Aprendiz em SQL Server e suporte
             src="https://custom-icon-badges.demolab.com/github/stars/mauriciovictorr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no LindkedIN" 
-            src="https://custom-icon-badges.demolab.com/linkedin/followers/mauricioti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin233&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.linkedin.com/in/mauricioti">
+    <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-mauricioti-blue?style=for-the-badge&logo=linkedin">
+</a>
 </p>
 
 # 🤖 Linguagens e Tecnologias
