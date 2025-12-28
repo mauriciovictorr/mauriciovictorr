@@ -16,11 +16,12 @@ Maurício Victor | Engenharia de Software @ UMJ Aprendiz em SQL Server e suporte
         <img 
             alt="Seguidores" 
             title="Me siga no LindkedIN" 
-            src="https://custom-icon-badges.demolab.com/linkedin/followers/mauricioti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/linkedin/followers/mauricioti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin233&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
-### 🤖 Linguagens e Tecnologias
+
+# 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -63,7 +64,6 @@ Maurício Victor | Engenharia de Software @ UMJ Aprendiz em SQL Server e suporte
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
