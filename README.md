@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Larissa Maurício Victor, tenho 19 anos e sou natural de Alagoas. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e database.
+Me chamo Maurício Victor, tenho 19 anos e sou natural de Alagoas. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e database.
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
