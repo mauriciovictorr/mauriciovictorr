@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maurício Victor
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Maurício Victor | Engenharia de Software @ UMJ Aprendiz em SQL Server e suporte a sistemas ERP (TOTVS Protheus). Unindo raciocínio lógico e paixão por tecnologia para construir soluções eficientes
 
