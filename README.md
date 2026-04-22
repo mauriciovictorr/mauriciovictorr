@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Linguagens e Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,tailwind," />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,tailwind" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,mysql" /><br>
 </div>
 
