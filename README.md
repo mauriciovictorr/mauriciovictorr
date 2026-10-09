@@ -158,10 +158,6 @@ flowchart LR
   <img src="https://streak-stats.demolab.com?user=mauriciovictorr&theme=tokyonight&hide_border=true&background=0f0c29&ring=2575fc&fire=2575fc&currStreakLabel=2575fc&locale=pt_BR" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mauriciovictorr&bg_color=0f0c29&color=ffffff&line=2575fc&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" />
-</p>
-
 <!-- Cobrinha de contribuições (requer o workflow .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
