@@ -124,12 +124,6 @@ flowchart LR
       Formulários com máscaras e validações (como validadores de nota fiscal), filtros, páginas responsivas com <b>Bootstrap</b> e evolução para <b>React</b>.
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>📝 Documentação que gente de negócio entende</h3>
-      Cards de Jira padronizados, páginas no Confluence e descrições de Pull Request escritas para atender ao mesmo tempo o time técnico e a gestão: motivo da demanda, o que foi implementado, migrations e roteiro de homologação.
-    </td>
-  </tr>
 </table>
 
 <br/>
